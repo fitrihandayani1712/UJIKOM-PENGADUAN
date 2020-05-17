@@ -3,7 +3,7 @@
 Aplikasi Pengaduan Masyarakat berbasis web dengan menggunakan Laravel 5.8.
 
 ## Instalasi
-- git clone https://github.com/erwanari211/aplikasi-pengaduan-masyarakat.git
+- git clone https://github.com/fitrihandayani1712/UJIKOM-PENGADUAN.git
 - cd aplikasi-pengaduan-masyarakat
 - composer install
 - cp .env.example .env
